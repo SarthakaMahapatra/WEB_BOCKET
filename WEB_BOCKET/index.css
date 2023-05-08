@@ -1,0 +1,79 @@
+.back{
+  background-image: url(BACK.gif);
+  height:753px;
+}
+nav{
+  font-size:x-large;
+}
+.grid-container{
+  display: grid;
+  padding:10px;
+  grid-template-columns: auto auto auto;
+}
+.header{
+  border:1px outset none; 
+  border-radius: 5px;
+  padding:80px;
+  width:600px;
+  height:480px;
+  position:relative;
+  left:167px;
+  font-family: Calibri;
+  font-size: 20px;
+}
+.footer{
+  border:1px outset none; 
+  border-radius: 5px;
+  padding:50px;
+  width:600px;
+  height:480px;
+  position:relative;
+  left:60px;
+  font-family: Calibri;
+  font-size: 20px;
+}
+img{
+  position: relative;
+  right:50px;
+  bottom:50px;
+  border-radius: 5px;
+}
+h1{
+  position: relative;
+  right:5px;
+}
+.P1{
+  color: rgb(208, 0, 255);
+  position: relative;
+  top: 20px;
+  left:50px;
+  font-size: 20px;
+}
+.P2{
+  color: rgb(208, 0, 255);
+  position: relative;
+  top: 10px;
+  left:25px;
+  font-size: 20px;
+}
+.P3{
+  color:red;
+  font-size:30px;
+  position: relative;
+  top:50px;
+  left:70px;
+}
+.signin{
+  background-color: blue;
+  color:white;
+  width:150px;
+  height:45px;
+  border:none;
+  position: relative;
+  top:100px;
+  left:130px;
+}
+a{
+  position: relative;
+  width:50px;
+}

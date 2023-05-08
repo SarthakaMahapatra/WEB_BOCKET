@@ -1,0 +1,101 @@
+nav{
+    font-size:x-large;
+  }
+img{ 
+     width:600px;
+     height:600px;
+     position: relative;
+     right:80px;
+     bottom:79px;
+ } 
+.grid-container{
+    display: grid;
+    padding:10px;
+    grid-template-columns: auto auto auto;
+}
+.header{
+    border:1px outset none; 
+    border-radius: 5px;
+    padding:80px;
+    width:600px;
+    height:600px;
+    position:relative;
+    left:154px;
+    font-family: Calibri;
+    font-size: 20px;
+}
+.footer{
+    border:1px outset none;
+    border-radius: 5px;
+    padding:20px;
+    width:700px;
+    height:600px;
+    position:relative;
+    left:80px;
+}
+a{
+    width:50px;
+}
+.label1{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:50px;
+}
+.label2{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:350px;
+    bottom:30px;
+}
+.label3{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:50px;
+}
+.label4{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:350px;
+    bottom:30px;
+}
+.label5{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:50px;
+}
+.label6{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:350px;
+    bottom:30px;
+}
+.label7{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:50px;
+}
+.label8{
+    border: 2px solid;
+    width:250px;
+    position: relative;
+    left:350px;
+    bottom:30px;
+}
+.signup{
+    background-color: blue;
+    color:white;
+    width:150px;
+    height:45px;
+    border:none;
+    border-radius:200px;
+    position: relative;
+    top:1px;
+    left:250px;
+}
